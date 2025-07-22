@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\C#\c#Learning\bin\Debug\net9.0\c#Learning.exe
+C:\Users\Asus\source\repos\C#\c#Learning\bin\Debug\net9.0\c#Learning.deps.json
+C:\Users\Asus\source\repos\C#\c#Learning\bin\Debug\net9.0\c#Learning.runtimeconfig.json
+C:\Users\Asus\source\repos\C#\c#Learning\bin\Debug\net9.0\c#Learning.dll
+C:\Users\Asus\source\repos\C#\c#Learning\bin\Debug\net9.0\c#Learning.pdb
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.AssemblyInfo.cs
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.dll
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\refint\c#Learning.dll
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.pdb
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\c#Learning.genruntimeconfig.cache
+C:\Users\Asus\source\repos\C#\c#Learning\obj\Debug\net9.0\ref\c#Learning.dll
